@@ -21,7 +21,7 @@ chmod +x mvnw
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/geordi-parrillo/ride-matching-service.git
 cd ride-matching-service
 ```
 
